@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahuel Ezequel Toledo</h1>
 <h3 align="center">Engineering Student Passionate about Data Science</h3>
-
+- 👨‍🎓 **"I am currently pursuing a Bachelor's degree in Systems Engineering at UTN, where I am passionate about mastering the intricacies of technology and problem-solving. My academic journey in engineering has equipped me with a solid foundation in computer science, software development, and systems analysis. I am dedicated to honing my skills and knowledge in this field to become a well-rounded engineer.**
 - 🌱 **I’m currently immersing myself in the exciting world of data analytics, data sciences, and machine learning. My journey involves mastering essential libraries like pandas, matplotlib, scikit-learn, and numpy to harness the power of data. In addition to my technical toolkit, I also have practical experience working with visualization tools like Tableau and Power BI, which enable me to transform complex datasets into actionable insights. My goal is to continuously expand my knowledge and skills in this dynamic field to contribute meaningfully to data-driven decision-making processes.**
 
 <h3 align="left">Connect with me:</h3>
