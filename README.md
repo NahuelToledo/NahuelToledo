@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel Ezequel Toledo</h1>
-<h3 align="center">Engineering Student Passionate about Data Science</h3>
+
 
 - 👨‍🎓 **I am currently pursuing a Bachelor's degree in Systems Engineering at UTN, where I am passionate about mastering the intricacies of technology and problem-solving. My academic journey in engineering has equipped me with a solid foundation in computer science, software development, and systems analysis. I am dedicated to honing my skills and knowledge in this field to become a well-rounded engineer.**
  
